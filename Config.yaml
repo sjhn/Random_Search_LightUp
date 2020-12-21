@@ -1,0 +1,7 @@
+logs: 30     #Total number of running the evaluations
+evaluations: 100000
+problem_instance_pathname: 'problems/a2.lup'
+solution_file_pathname: 'solutions/solution2.txt'
+log_file_pathname: 'logs/log2.txt'
+random_seed: 5
+
